@@ -40,4 +40,21 @@
     <img src="https://github.com/LumiToad/LumiToad/blob/main/img/banner/github_arcanum_banner.png" />
   </a>
 
+  <hr />
+  
+  <h2>Private Projects</h2>
+  
+  Click on Banner -> To Project <br />
+  Click on Link -> To Repo
+
+  <h3>GUIFD - GUI For Diskpart (<a href="https://github.com/LumiToad/GUIForDiskpart">Repo</a>)</h3>
+  <a href="#">
+    <img src="https://github.com/LumiToad/LumiToad/blob/main/img/banner/github_gui_banner.png" />
+  </a>
+  
+  <h3>Clash of Words - Working Title (<a href="https://github.com/LumiToad/ClashOfWords">Repo</a>)</h3>
+  <a href="#">
+    <img src="https://github.com/LumiToad/LumiToad/blob/main/img/banner/github_cow_banner.png" />
+  </a>
+  
 </div>
