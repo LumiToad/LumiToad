@@ -17,25 +17,25 @@
   
   <h2>School For Games</h2>
 
-  Click on banner -> To Game
+  Click on Banner -> To Game <br />
   Click on Link -> To Repo
   
-  <h3>Brevity of Gravity (<a href="#">Repo</a>)</h3>
+  <h3>Brevity of Gravity (<a href="https://github.com/LumiToad/BrevityOfGravity">Repo</a>)</h3>
   <a href="https://brevity-of-gravity.school4games.net/">
     <img src="https://github.com/LumiToad/LumiToad/blob/main/img/banner/github_brevity_banner.png" />
   </a>
 
-  <h3>Hivebreaker</h3>
+  <h3>Hivebreaker (<a href="https://github.com/LumiToad/Hivebreaker">Repo</a>)</h3>
   <a href="https://s4g.itch.io/hivebreaker">
     <img src="https://github.com/LumiToad/LumiToad/blob/main/img/banner/github_hivebreaker_banner.png" />
   </a>
 
-  <h3>Scrap Fever</h3>
+  <h3>Scrap Fever (<a href="https://github.com/LumiToad/WorkingTitle-SurvivorDefense">Repo</a>)</h3>
   <a href="https://s4g.itch.io/scrap-fever">
     <img src="https://github.com/LumiToad/LumiToad/blob/main/img/banner/github_scrap_banner.png" />
   </a>
 
-  <h3>Arcanum Fortuna</h3>
+  <h3>Arcanum Fortuna (<a href="https://github.com/LumiToad/ArcanumFortuna">Repo</a>)</h3>
   <a href="https://s4g.itch.io/arcanum-fortuna">
     <img src="https://github.com/LumiToad/LumiToad/blob/main/img/banner/github_arcanum_banner.png" />
   </a>
