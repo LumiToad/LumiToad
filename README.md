@@ -10,8 +10,8 @@
     Below you can find social media links and all projects in which I have participated so far.
   </p>
 
-  <h2>Social Media</h2>
   <hr />
+  <h2>Social Media</h2>
     <a align="center" href="https://www.linkedin.com/in/lukas-schmidt-93b532256/"><img src="https://static.licdn.com/aero-v1/sc/h/akt4ae504epesldzj74dzred8" alt="LinkedIn"/></a>
     <a align="center" href="https://linktr.ee/LumiToad"><img src="https://assets.production.linktr.ee/profiles/_next/static/logo-assets/apple-icon-180x180.png" alt="LinkTree width="60" height="60" /></a>
   <hr />
