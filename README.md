@@ -7,7 +7,8 @@
     I am Lukas, a Game Engineering student at <a href="https://www.school4games.net">School For Games</a> from Berlin, Germany. <br />
     Learning how to code since October 2022, my projects are featuring -><br />
     Godot, Unity and Windows Presentation Foundation (WPF). <br />
-    Below you can find social media links and all projects in which I have participated so far.
+    Below you can find social media links and all projects in which I have participated so far.<br /><br/>
+    Most of these projects have been developed with an agile-heavy production.
   </p>
 
   <hr />
