@@ -12,8 +12,8 @@
 
   <hr />
   <h2>Social Media</h2>
-    <a align="center" href="https://www.linkedin.com/in/lukas-schmidt-93b532256/"><img src="https://static.licdn.com/aero-v1/sc/h/akt4ae504epesldzj74dzred8" alt="LinkedIn"/></a>
-    <a align="center" href="https://linktr.ee/LumiToad"><img src="https://assets.production.linktr.ee/profiles/_next/static/logo-assets/apple-icon-180x180.png" alt="LinkTree width="60" height="60" /></a>
+    <a align="center" href="https://www.linkedin.com/in/lukas-schmidt-93b532256/"><img src="https://github.com/LumiToad/LumiToad/blob/main/img/icons/linkedin.webp" alt="LinkedIn" width="55" height="55"/></a>
+    <a align="center" href="https://lnk.bio/LumiToad"><img src="https://github.com/LumiToad/LumiToad/blob/main/img/icons/link_bio.png" alt="LinkBio" width="54" height="54" /></a>
   <hr />
   
   <h2>School For Games</h2>
