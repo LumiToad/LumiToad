@@ -21,21 +21,21 @@
   Click on Banner -> To Game <br />
   Click on Link -> To Repo
 
-  <h2>First Semester</h2><br />
+  <h4>First Semester</h4><br />
   
   <h3>Brevity of Gravity (<a href="https://github.com/LumiToad/BrevityOfGravity">Repo</a>)</h3>
   <a href="https://brevity-of-gravity.school4games.net/">
     <img src="https://github.com/LumiToad/LumiToad/blob/main/img/banner/github_brevity_banner.png" />
   </a><br /><br />
 
-  <h2>Second Semester</h2><br />
+  <h4>Second Semester</h4><br />
 
   <h3>Hivebreaker (<a href="https://github.com/LumiToad/Hivebreaker">Repo</a>)</h3>
   <a href="https://s4g.itch.io/hivebreaker">
     <img src="https://github.com/LumiToad/LumiToad/blob/main/img/banner/github_hivebreaker_banner.png" />
   </a><br /><br />
 
-  <h2>Third Semester</h2><br />
+  <h4>Third Semester</h4><br />
 
   <h3>Scrap Fever (<a href="https://github.com/LumiToad/WorkingTitle-SurvivorDefense">Repo</a>)</h3>
   <a href="https://s4g.itch.io/scrap-fever">
