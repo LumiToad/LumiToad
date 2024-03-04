@@ -18,41 +18,53 @@
   
   <h2>School For Games</h2>
 
-  Click on Banner -> To Game <br />
-  Click on Link -> To Repo
-
   <h4>First Semester</h4>
   ----------------------------------------------------------<br />
-  <h3>Brevity of Gravity (<a href="https://github.com/LumiToad/BrevityOfGravity">Repo</a>)</h3>
-  <a href="https://brevity-of-gravity.school4games.net/">
+  <h3>Brevity of Gravity</h3>
+  <p>
+      (<a href="https://github.com/LumiToad/BrevityOfGravity">Repo</a> | 
+      <a href="https://brevity-of-gravity.school4games.net/">Website</a> | 
+      <a href="https://s4g.itch.io/brevity-of-gravity">Itch</a>)
+  </p>
+  <a href="https://github.com/LumiToad/BrevityOfGravity">
     <img src="https://github.com/LumiToad/LumiToad/blob/main/img/banner/github_brevity_banner.png" />
   </a><br /><br />
 
   <h4>Second Semester</h4>
   ----------------------------------------------------------<br />
-  <h3>Hivebreaker (<a href="https://github.com/LumiToad/Hivebreaker">Repo</a>)</h3>
-  <a href="https://s4g.itch.io/hivebreaker">
+  <h3>Hivebreaker</h3>
+  <p>
+      (<a href="https://github.com/LumiToad/Hivebreaker">Repo</a> | 
+      <a href="https://s4g.itch.io/hivebreaker">Itch</a>)
+  </p>
+  <a href="https://github.com/LumiToad/Hivebreaker">
     <img src="https://github.com/LumiToad/LumiToad/blob/main/img/banner/github_hivebreaker_banner.png" />
   </a><br /><br />
 
   <h4>Third Semester</h4>
   ----------------------------------------------------------<br />
-  <h3>Scrap Fever (<a href="https://github.com/LumiToad/WorkingTitle-SurvivorDefense">Repo</a>)</h3>
-  <a href="https://s4g.itch.io/scrap-fever">
+  <h3>Scrap Fever</h3>
+  <p>
+      (<a href="https://github.com/LumiToad/WorkingTitle-SurvivorDefense">Repo</a> | 
+      <a href="https://s4g.itch.io/scrap-fever">Itch</a>)
+  </p>
+  <a href="https://github.com/LumiToad/WorkingTitle-SurvivorDefense">
     <img src="https://github.com/LumiToad/LumiToad/blob/main/img/banner/github_scrap_banner.png" />
   </a>
 
-  <h3>Arcanum Fortuna (<a href="https://github.com/LumiToad/ArcanumFortuna">Repo</a>)</h3>
-  <a href="https://s4g.itch.io/arcanum-fortuna">
+  <h3>Arcanum Fortuna</h3>
+  <p>
+      (<a href="https://github.com/LumiToad/ArcanumFortuna">Repo</a> | 
+      <a href="https://s4g.itch.io/arcanum-fortuna">Itch</a> | 
+      <a href="https://store.steampowered.com/app/2852690/Arcanum_Fortuna/">Steam</a>)
+  </p>
+  <a href="https://github.com/LumiToad/ArcanumFortuna">
     <img src="https://github.com/LumiToad/LumiToad/blob/main/img/banner/github_arcanum_banner.png" />
   </a>
 
   <hr />
   
   <h2>Private Projects</h2>
-  
-  Click on Banner -> To Project <br />
-  Click on Link -> To Repo
 
   <h3>GUIFD - GUI For Diskpart (<a href="https://github.com/LumiToad/GUIForDiskpart">Repo</a>)</h3>
   <a href="#">
