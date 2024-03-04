@@ -1,26 +1,33 @@
 <div align="center">
-  
-  <h1>About me</h1>
+
+  <h2>About me</h2>
   
   <p>
     I am Lukas, a Game Engineering student at <a href="https://www.school4games.net">School For Games</a> from Berlin, Germany. <br />
-    Learning how to code since October 2022, my projects are featuring -><br />
-    Godot, Unity and Windows Presentation Foundation (WPF). <br />
-    Below you can find social media links and all projects in which I have participated so far.<br /><br/>
-    Most of these projects have been developed with an agile-heavy production.
-  </p>
+    Learning how to code since October 2022.<br /><br />
+    Most of these projects have been developed with an agile-heavy production.<br />
 
-  <hr />
-  <h2>Social Media</h2>
-    <a align="center" href="https://www.linkedin.com/in/lukas-schmidt-93b532256/"><img src="https://github.com/LumiToad/LumiToad/blob/main/img/icons/linkedin.webp" alt="LinkedIn" width="55" height="55"/></a>
-    <a align="center" href="https://lnk.bio/LumiToad"><img src="https://github.com/LumiToad/LumiToad/blob/main/img/icons/link_bio.png" alt="LinkBio" width="54" height="54" /></a>
-  <hr />
+<h3>Featured Projects</h3>
+
+| Project | Engine / Framework | Language | Timeframe |
+| --- | --- | :---: | --- |
+| [Brevity Of Gravity](https://github.com/LumiToad/BrevityOfGravity) | Godot | GDScript | 10 Weeks |
+| [Survivor Defense](https://github.com/LumiToad/WorkingTitle-SurvivorDefense) | Unity | C# | 10 Weeks |
+| [GUI for Diskpart](https://github.com/LumiToad/GUIForDiskpart) | Windows Presentation Foundation | C# | Ongoing |
+    
+<h3>Social Media</h3>
+    <a href="https://www.linkedin.com/in/lukas-schmidt-93b532256/"><img src="https://github.com/LumiToad/LumiToad/blob/main/img/icons/linkedin.webp" alt="LinkedIn" width="30" height="30"/></a>
+    <a href="https://lnk.bio/LumiToad"><img src="https://github.com/LumiToad/LumiToad/blob/main/img/icons/link_bio.png" alt="LinkBio" width="30" height="30" /></a>
+    <a href="mailto:Lukas-Schmidt1996@hotmail.com"><img src="https://github.com/LumiToad/LumiToad/blob/main/img/icons/email.png" alt="LinkBio" width="33" height="30" /></a>
+  </p>
   
+  <hr />
   <h2>School For Games</h2>
 
   <h4>First Semester</h4>
   ----------------------------------------------------------<br />
-  <h3>Brevity of Gravity</h3>
+  <h3>Brevity Of Gravity</h3>
+  <a name="brevity_anchor"></a>
   <p>
       (<a href="https://github.com/LumiToad/BrevityOfGravity">Repo</a> | 
       <a href="https://brevity-of-gravity.school4games.net/">Website</a> | 
