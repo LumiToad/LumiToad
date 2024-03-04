@@ -16,9 +16,9 @@
 | [GUI for Diskpart](https://github.com/LumiToad/GUIForDiskpart) | Windows Presentation Foundation | C# | Ongoing |
     
 <h3>Social Media</h3>
-    <a href="https://www.linkedin.com/in/lukas-schmidt-93b532256/"><img src="https://github.com/LumiToad/LumiToad/blob/main/img/icons/linkedin.webp" alt="LinkedIn" width="25" height="25"/></a>
-    <a href="https://lnk.bio/LumiToad"><img src="https://github.com/LumiToad/LumiToad/blob/main/img/icons/link_bio.png" alt="LinkBio" width="25" height="25" /></a>
-    <a href="mailto:Lukas-Schmidt1996@hotmail.com"><img src="https://github.com/LumiToad/LumiToad/blob/main/img/icons/email.png" alt="LinkBio" width="28" height="25" /></a>
+    <a href="https://www.linkedin.com/in/lukas-schmidt-93b532256/"><img src="https://github.com/LumiToad/LumiToad/blob/main/img/icons/linkedin.webp" alt="LinkedIn" width="30" height="30"/></a>
+    <a href="https://lnk.bio/LumiToad"><img src="https://github.com/LumiToad/LumiToad/blob/main/img/icons/link_bio.png" alt="LinkBio" width="30" height="30" /></a>
+    <a href="mailto:Lukas-Schmidt1996@hotmail.com"><img src="https://github.com/LumiToad/LumiToad/blob/main/img/icons/email.png" alt="LinkBio" width="33" height="30" /></a>
   </p>
   
   <hr />
