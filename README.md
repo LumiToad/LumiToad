@@ -1,22 +1,21 @@
 <div align="center">
 
-  <h2>Featured Projects</h2>
-
-| Project | Link |
-| --- | :---: |
-| a | [Brevity Of Gravity](README.md#brevity-of-gravity) |
-| b | c |
-
-  <hr />
   <h2>About me</h2>
   
   <p>
     I am Lukas, a Game Engineering student at <a href="https://www.school4games.net">School For Games</a> from Berlin, Germany. <br />
-    Learning how to code since October 2022, my projects are featuring -><br />
-    Godot, Unity and Windows Presentation Foundation (WPF). <br />
-    Below you can find social media links and all projects in which I have participated so far.<br /><br/>
+    Learning how to code since October 2022.<br /><br />
     Most of these projects have been developed with an agile-heavy production.<br />
-    <h3>Social Media</h3>
+
+<h3>Featured Projects</h3>
+
+| Project | Engine / Framework | Language | Timeframe |
+| --- | --- | :---: | --- |
+| [Brevity Of Gravity](https://github.com/LumiToad/BrevityOfGravity) | Godot | GDScript | 10 Weeks |
+| [Survivor Defense](https://github.com/LumiToad/WorkingTitle-SurvivorDefense) | Unity | C# | 10 Weeks |
+| [GUI for Diskpart](https://github.com/LumiToad/GUIForDiskpart) | Windows Presentation Foundation | C# | Ongoing |
+    
+<h3>Social Media</h3>
     <a href="https://www.linkedin.com/in/lukas-schmidt-93b532256/"><img src="https://github.com/LumiToad/LumiToad/blob/main/img/icons/linkedin.webp" alt="LinkedIn" width="25" height="25"/></a>
     <a href="https://lnk.bio/LumiToad"><img src="https://github.com/LumiToad/LumiToad/blob/main/img/icons/link_bio.png" alt="LinkBio" width="25" height="25" /></a>
     <a href="mailto:Lukas-Schmidt1996@hotmail.com"><img src="https://github.com/LumiToad/LumiToad/blob/main/img/icons/email.png" alt="LinkBio" width="28" height="25" /></a>
@@ -27,7 +26,7 @@
 
   <h4>First Semester</h4>
   ----------------------------------------------------------<br />
-  <h3>Brevity of Gravity</h3>
+  <h3>Brevity Of Gravity</h3>
   <a name="brevity_anchor"></a>
   <p>
       (<a href="https://github.com/LumiToad/BrevityOfGravity">Repo</a> | 
