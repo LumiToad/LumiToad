@@ -66,13 +66,21 @@
   
   <h2>Private Projects</h2>
 
-  <h3>GUIFD - GUI For Diskpart (<a href="https://github.com/LumiToad/GUIForDiskpart">Repo</a>)</h3>
-  <a href="#">
+  <h3>GUIFD - GUI For Diskpart</h3>
+  <p>
+      (<a href="https://github.com/LumiToad/GUIForDiskpart">Repo</a> | 
+      <a href="#">Website</a>)
+  </p>
+  <a href="https://github.com/LumiToad/GUIForDiskpart">
     <img src="https://github.com/LumiToad/LumiToad/blob/main/img/banner/github_gui_banner.png" />
   </a>
   
-  <h3>Clash of Words - Working Title (<a href="https://github.com/LumiToad/ClashOfWords">Repo</a>)</h3>
-  <a href="#">
+  <h3>Clash of Words - Working Title</h3>
+  <p>
+      (<a href="https://github.com/LumiToad/ClashOfWords">Repo</a> | 
+      <a href="#">Website</a>)
+  </p>
+  <a href="https://github.com/LumiToad/ClashOfWords">
     <img src="https://github.com/LumiToad/LumiToad/blob/main/img/banner/github_cow_banner.png" />
   </a>
   
