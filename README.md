@@ -3,7 +3,7 @@
   <h2>About me</h2>
   
   <p>
-    I am Lukas, a Game Engineering student at <a href="https://www.school4games.net">School For Games</a> from Berlin, Germany. <br />
+    I am Lukas, a Game Engineering student at School For Games <a href="https://www.school4games.net">➡</a> from Berlin, Germany. <br />
     Learning how to code since October 2022.<br /><br />
     Most of these projects have been developed with an agile-heavy production.<br />
 
