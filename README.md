@@ -12,55 +12,75 @@
 
   <hr />
   <h2>Social Media</h2>
-    <a align="center" href="https://www.linkedin.com/in/lukas-schmidt-93b532256/"><img src="https://static.licdn.com/aero-v1/sc/h/akt4ae504epesldzj74dzred8" alt="LinkedIn"/></a>
-    <a align="center" href="https://linktr.ee/LumiToad"><img src="https://assets.production.linktr.ee/profiles/_next/static/logo-assets/apple-icon-180x180.png" alt="LinkTree width="60" height="60" /></a>
+    <a align="center" href="https://www.linkedin.com/in/lukas-schmidt-93b532256/"><img src="https://github.com/LumiToad/LumiToad/blob/main/img/icons/linkedin.webp" alt="LinkedIn" width="55" height="55"/></a>
+    <a align="center" href="https://lnk.bio/LumiToad"><img src="https://github.com/LumiToad/LumiToad/blob/main/img/icons/link_bio.png" alt="LinkBio" width="54" height="54" /></a>
   <hr />
   
   <h2>School For Games</h2>
 
-  Click on Banner -> To Game <br />
-  Click on Link -> To Repo
-
   <h4>First Semester</h4>
   ----------------------------------------------------------<br />
-  <h3>Brevity of Gravity (<a href="https://github.com/LumiToad/BrevityOfGravity">Repo</a>)</h3>
-  <a href="https://brevity-of-gravity.school4games.net/">
+  <h3>Brevity of Gravity</h3>
+  <p>
+      (<a href="https://github.com/LumiToad/BrevityOfGravity">Repo</a> | 
+      <a href="https://brevity-of-gravity.school4games.net/">Website</a> | 
+      <a href="https://s4g.itch.io/brevity-of-gravity">Itch</a>)
+  </p>
+  <a href="https://github.com/LumiToad/BrevityOfGravity">
     <img src="https://github.com/LumiToad/LumiToad/blob/main/img/banner/github_brevity_banner.png" />
   </a><br /><br />
 
   <h4>Second Semester</h4>
   ----------------------------------------------------------<br />
-  <h3>Hivebreaker (<a href="https://github.com/LumiToad/Hivebreaker">Repo</a>)</h3>
-  <a href="https://s4g.itch.io/hivebreaker">
+  <h3>Hivebreaker</h3>
+  <p>
+      (<a href="https://github.com/LumiToad/Hivebreaker">Repo</a> | 
+      <a href="https://s4g.itch.io/hivebreaker">Itch</a>)
+  </p>
+  <a href="https://github.com/LumiToad/Hivebreaker">
     <img src="https://github.com/LumiToad/LumiToad/blob/main/img/banner/github_hivebreaker_banner.png" />
   </a><br /><br />
 
   <h4>Third Semester</h4>
   ----------------------------------------------------------<br />
-  <h3>Scrap Fever (<a href="https://github.com/LumiToad/WorkingTitle-SurvivorDefense">Repo</a>)</h3>
-  <a href="https://s4g.itch.io/scrap-fever">
+  <h3>Scrap Fever</h3>
+  <p>
+      (<a href="https://github.com/LumiToad/WorkingTitle-SurvivorDefense">Repo</a> | 
+      <a href="https://s4g.itch.io/scrap-fever">Itch</a>)
+  </p>
+  <a href="https://github.com/LumiToad/WorkingTitle-SurvivorDefense">
     <img src="https://github.com/LumiToad/LumiToad/blob/main/img/banner/github_scrap_banner.png" />
   </a>
 
-  <h3>Arcanum Fortuna (<a href="https://github.com/LumiToad/ArcanumFortuna">Repo</a>)</h3>
-  <a href="https://s4g.itch.io/arcanum-fortuna">
+  <h3>Arcanum Fortuna</h3>
+  <p>
+      (<a href="https://github.com/LumiToad/ArcanumFortuna">Repo</a> | 
+      <a href="https://s4g.itch.io/arcanum-fortuna">Itch</a> | 
+      <a href="https://store.steampowered.com/app/2852690/Arcanum_Fortuna/">Steam</a>)
+  </p>
+  <a href="https://github.com/LumiToad/ArcanumFortuna">
     <img src="https://github.com/LumiToad/LumiToad/blob/main/img/banner/github_arcanum_banner.png" />
   </a>
 
   <hr />
   
   <h2>Private Projects</h2>
-  
-  Click on Banner -> To Project <br />
-  Click on Link -> To Repo
 
-  <h3>GUIFD - GUI For Diskpart (<a href="https://github.com/LumiToad/GUIForDiskpart">Repo</a>)</h3>
-  <a href="#">
+  <h3>GUIFD - GUI For Diskpart</h3>
+  <p>
+      (<a href="https://github.com/LumiToad/GUIForDiskpart">Repo</a> | 
+      <a href="#">Website</a>)
+  </p>
+  <a href="https://github.com/LumiToad/GUIForDiskpart">
     <img src="https://github.com/LumiToad/LumiToad/blob/main/img/banner/github_gui_banner.png" />
   </a>
   
-  <h3>Clash of Words - Working Title (<a href="https://github.com/LumiToad/ClashOfWords">Repo</a>)</h3>
-  <a href="#">
+  <h3>Clash of Words - Working Title</h3>
+  <p>
+      (<a href="https://github.com/LumiToad/ClashOfWords">Repo</a> | 
+      <a href="#">Website</a>)
+  </p>
+  <a href="https://github.com/LumiToad/ClashOfWords">
     <img src="https://github.com/LumiToad/LumiToad/blob/main/img/banner/github_cow_banner.png" />
   </a>
   
