@@ -24,9 +24,7 @@
   <hr />
   <h2>School For Games</h2>
 
-  <h4>First Semester</h4>
-  ----------------------------------------------------------<br />
-  <h3>Brevity Of Gravity</h3>
+  <h3>Brevity Of Gravity (First Semester)</h3>
   <a name="brevity_anchor"></a>
   <p>
       (<a href="https://github.com/LumiToad/BrevityOfGravity">Repo</a> | 
@@ -37,9 +35,7 @@
     <img src="https://github.com/LumiToad/LumiToad/blob/main/img/banner/github_brevity_banner.png" />
   </a><br /><br />
 
-  <h4>Second Semester</h4>
-  ----------------------------------------------------------<br />
-  <h3>Hivebreaker</h3>
+  <h3>Hivebreaker (Second Semester)</h3>
   <p>
       (<a href="https://github.com/LumiToad/Hivebreaker">Repo</a> | 
       <a href="https://s4g.itch.io/hivebreaker">Itch</a>)
@@ -48,9 +44,7 @@
     <img src="https://github.com/LumiToad/LumiToad/blob/main/img/banner/github_hivebreaker_banner.png" />
   </a><br /><br />
 
-  <h4>Third Semester</h4>
-  ----------------------------------------------------------<br />
-  <h3>Scrap Fever</h3>
+  <h3>Scrap Fever (Third Semester)</h3>
   <p>
       (<a href="https://github.com/LumiToad/WorkingTitle-SurvivorDefense">Repo</a> | 
       <a href="https://s4g.itch.io/scrap-fever">Itch</a>)
@@ -59,7 +53,7 @@
     <img src="https://github.com/LumiToad/LumiToad/blob/main/img/banner/github_scrap_banner.png" />
   </a>
 
-  <h3>Arcanum Fortuna</h3>
+  <h3>Arcanum Fortuna (Third Semester)</h3>
   <p>
       (<a href="https://github.com/LumiToad/ArcanumFortuna">Repo</a> | 
       <a href="https://s4g.itch.io/arcanum-fortuna">Itch</a> | 
