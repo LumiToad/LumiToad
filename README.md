@@ -12,8 +12,9 @@
 | Project | Engine / Framework | Language | Timeframe |
 | --- | --- | :---: | --- |
 | [Survivor Defense](https://github.com/LumiToad/WorkingTitle-SurvivorDefense) | Unity | C# | 10 Weeks |
-| [GUI for Diskpart](https://github.com/LumiToad/GUIForDiskpart) | Windows Presentation Foundation | C# | Ongoing |
+| [GUI for Diskpart](https://github.com/LumiToad/GUIForDiskpart) | Windows Presentation Foundation | C# | Beta done |
 | [Arcanum Fortuna](https://github.com/LumiToad/ArcanumFortuna) | Godot | GDScript | 10 Weeks |
+| [GDExtension CineCam](https://github.com/LumiToad/GDExtension_CineCam) | Godot | C++ | around 5 Weeks+ |
     
 <h3>Social Media</h3>
     <a href="https://www.linkedin.com/in/lukas-schmidt-93b532256/"><img src="https://github.com/LumiToad/LumiToad/blob/main/img/icons/linkedin.webp" alt="LinkedIn" width="30" height="30"/></a>
@@ -23,6 +24,17 @@
   
   <hr />
   <h2>School For Games</h2>
+
+  <h3>CineCam (Fourth Semester, Final thesis)</h3>
+  <a name="cinecam_anchor"></a>
+  <p>
+      (<a href="https://github.com/LumiToad/GDExtension_CineCam">Repo</a> | 
+      <a href="https://github.com/LumiToad/GDExtension_CineCam/wiki">Wiki</a> | 
+      <a href="https://github.com/LumiToad/CineCam_Example">Example project</a>)
+  </p>
+  <a href="https://github.com/LumiToad/GDExtension_CineCam">
+    <img src="https://github.com/LumiToad/GDExtension_CineCam/blob/main/images/github_cinecam_banner.png" />
+  </a><br /><br />
 
   <h3>Brevity Of Gravity (First Semester)</h3>
   <a name="brevity_anchor"></a>
