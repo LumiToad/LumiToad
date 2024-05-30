@@ -25,17 +25,6 @@
   <hr />
   <h2>School For Games</h2>
 
-  <h3>CineCam (Fourth Semester, Final thesis)</h3>
-  <a name="cinecam_anchor"></a>
-  <p>
-      (<a href="https://github.com/LumiToad/GDExtension_CineCam">Repo</a> | 
-      <a href="https://github.com/LumiToad/GDExtension_CineCam/wiki">Wiki</a> | 
-      <a href="https://github.com/LumiToad/CineCam_Example">Example project</a>)
-  </p>
-  <a href="https://github.com/LumiToad/GDExtension_CineCam">
-    <img src="https://github.com/LumiToad/GDExtension_CineCam/blob/main/images/github_cinecam_banner.png" />
-  </a><br /><br />
-
   <h3>Brevity Of Gravity (First Semester)</h3>
   <a name="brevity_anchor"></a>
   <p>
@@ -74,6 +63,17 @@
   <a href="https://github.com/LumiToad/ArcanumFortuna">
     <img src="https://github.com/LumiToad/LumiToad/blob/main/img/banner/github_arcanum_banner.png" />
   </a>
+
+<h3>CineCam (Fourth Semester, Final thesis)</h3>
+  <a name="cinecam_anchor"></a>
+  <p>
+      (<a href="https://github.com/LumiToad/GDExtension_CineCam">Repo</a> | 
+      <a href="https://github.com/LumiToad/GDExtension_CineCam/wiki">Wiki</a> | 
+      <a href="https://github.com/LumiToad/CineCam_Example">Example project</a>)
+  </p>
+  <a href="https://github.com/LumiToad/GDExtension_CineCam">
+    <img src="https://github.com/LumiToad/GDExtension_CineCam/blob/main/images/github_cinecam_banner.png" />
+  </a><br /><br />
 
   <hr />
   
