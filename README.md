@@ -3,7 +3,7 @@
   <h2>About me</h2>
   
   <p>
-    I am Lukas, a Game Engineering student at <a href="https://www.school4games.net">School For Games</a> from Berlin, Germany. <br />
+    I am Lukas, a Game Engineering student at School For Games <a href="https://www.school4games.net">➡</a> from Berlin, Germany. <br />
     Learning how to code since October 2022.<br /><br />
     Most of these projects have been developed with an agile-heavy production.<br />
 
@@ -11,9 +11,10 @@
 
 | Project | Engine / Framework | Language | Timeframe |
 | --- | --- | :---: | --- |
-| [Brevity Of Gravity](https://github.com/LumiToad/BrevityOfGravity) | Godot | GDScript | 10 Weeks |
 | [Survivor Defense](https://github.com/LumiToad/WorkingTitle-SurvivorDefense) | Unity | C# | 10 Weeks |
-| [GUI for Diskpart](https://github.com/LumiToad/GUIForDiskpart) | Windows Presentation Foundation | C# | Ongoing |
+| [GUI for Diskpart](https://github.com/LumiToad/GUIForDiskpart) | Windows Presentation Foundation | C# | Beta done |
+| [Arcanum Fortuna](https://github.com/LumiToad/ArcanumFortuna) | Godot | GDScript | 10 Weeks |
+| [CineCam](https://github.com/LumiToad/GDExtension_CineCam) | Godot, GDExtension | C++ | around 5 Weeks+ |
     
 <h3>Social Media</h3>
     <a href="https://www.linkedin.com/in/lukas-schmidt-93b532256/"><img src="https://github.com/LumiToad/LumiToad/blob/main/img/icons/linkedin.webp" alt="LinkedIn" width="30" height="30"/></a>
@@ -24,9 +25,7 @@
   <hr />
   <h2>School For Games</h2>
 
-  <h4>First Semester</h4>
-  ----------------------------------------------------------<br />
-  <h3>Brevity Of Gravity</h3>
+  <h3>Brevity Of Gravity (First Semester)</h3>
   <a name="brevity_anchor"></a>
   <p>
       (<a href="https://github.com/LumiToad/BrevityOfGravity">Repo</a> | 
@@ -37,9 +36,7 @@
     <img src="https://github.com/LumiToad/LumiToad/blob/main/img/banner/github_brevity_banner.png" />
   </a><br /><br />
 
-  <h4>Second Semester</h4>
-  ----------------------------------------------------------<br />
-  <h3>Hivebreaker</h3>
+  <h3>Hivebreaker (Second Semester)</h3>
   <p>
       (<a href="https://github.com/LumiToad/Hivebreaker">Repo</a> | 
       <a href="https://s4g.itch.io/hivebreaker">Itch</a>)
@@ -48,9 +45,7 @@
     <img src="https://github.com/LumiToad/LumiToad/blob/main/img/banner/github_hivebreaker_banner.png" />
   </a><br /><br />
 
-  <h4>Third Semester</h4>
-  ----------------------------------------------------------<br />
-  <h3>Scrap Fever</h3>
+  <h3>Scrap Fever (Third Semester)</h3>
   <p>
       (<a href="https://github.com/LumiToad/WorkingTitle-SurvivorDefense">Repo</a> | 
       <a href="https://s4g.itch.io/scrap-fever">Itch</a>)
@@ -59,7 +54,7 @@
     <img src="https://github.com/LumiToad/LumiToad/blob/main/img/banner/github_scrap_banner.png" />
   </a>
 
-  <h3>Arcanum Fortuna</h3>
+  <h3>Arcanum Fortuna (Third Semester)</h3>
   <p>
       (<a href="https://github.com/LumiToad/ArcanumFortuna">Repo</a> | 
       <a href="https://s4g.itch.io/arcanum-fortuna">Itch</a> | 
@@ -68,6 +63,17 @@
   <a href="https://github.com/LumiToad/ArcanumFortuna">
     <img src="https://github.com/LumiToad/LumiToad/blob/main/img/banner/github_arcanum_banner.png" />
   </a>
+
+<h3>CineCam (Fourth Semester, Final thesis)</h3>
+  <a name="cinecam_anchor"></a>
+  <p>
+      (<a href="https://github.com/LumiToad/GDExtension_CineCam">Repo</a> | 
+      <a href="https://github.com/LumiToad/GDExtension_CineCam/wiki">Wiki</a> | 
+      <a href="https://github.com/LumiToad/CineCam_Example">Example project</a>)
+  </p>
+  <a href="https://github.com/LumiToad/GDExtension_CineCam">
+    <img src="https://github.com/LumiToad/GDExtension_CineCam/blob/main/images/github_cinecam_banner.png" />
+  </a><br /><br />
 
   <hr />
   
