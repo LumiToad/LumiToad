@@ -36,7 +36,7 @@
     <img src="https://github.com/LumiToad/LumiToad/blob/main/img/banner/github_gui_banner.png" />
   </a><br />
   MVP, solo project
-  <br /><br />
+  <br />
 
   <h3>CineCam [C++, Python, <a href="https://scons.org">SCons</a>, Godot]</h3>
   <a name="cinecam_anchor"></a>
@@ -49,7 +49,7 @@
     <img src="https://github.com/LumiToad/GDExtension_CineCam/blob/main/images/github_cinecam_banner.png" />
   </a><br />
   Fourth Semester, Final thesis
-  <br /><br />
+  <br />
 
   <h3>Arcanum Fortuna [GDScript, Godot]</h3>
   <a name="arcanum_anchor"></a>
@@ -62,7 +62,7 @@
     <img src="https://github.com/LumiToad/LumiToad/blob/main/img/banner/github_arcanum_banner.png" />
   </a><br />
   Third Semester, Agile
-  <br /><br />
+  <br />
   
   <h3>Scrap Fever [C#, Unity]</h3>
   <a name="scrap_anchor"></a>
@@ -74,16 +74,17 @@
   <img src="https://github.com/LumiToad/LumiToad/blob/main/img/banner/github_scrap_banner.png" />
   </a><br />
   Third Semester, Agile
-  <br /><br />
+  <br />
 
   <!-- --------START OF EXPAND SECTION-------- -->
+  <br />
   <details> 
     <summary>Archived projects</summary>
     <p>
       <h2>School For Games</h2>
       <b>Important!</b> These are from my time in the School for Games.<br />
       My programming has improved since. However, these projects were agile team projects.<br />
-      <h3>Brevity Of Gravity (First Semester)</h3>
+      <h3>Brevity Of Gravity [GDScript, Godot]</h3>
       <a name="brevity_anchor"></a>
         <p>
           (<a href="https://github.com/LumiToad/BrevityOfGravity">Repo</a> | 
@@ -92,31 +93,35 @@
         </p>
       <a href="https://github.com/LumiToad/BrevityOfGravity">
       <img src="https://github.com/LumiToad/LumiToad/blob/main/img/banner/github_brevity_banner.png" />
-      </a><br /><br />
-      <h3>Hivebreaker (Second Semester)</h3>
+      </a><br />
+      First Semester, Agile<br />
+      <h3>Hivebreaker [C#, Unity]</h3>
       <p>
         (<a href="https://github.com/LumiToad/Hivebreaker">Repo</a> | 
         <a href="https://s4g.itch.io/hivebreaker">Itch</a>)
       </p>
       <a href="https://github.com/LumiToad/Hivebreaker">
       <img src="https://github.com/LumiToad/LumiToad/blob/main/img/banner/github_hivebreaker_banner.png" />
-      </a><br /><br />
-      <h3>Scrap Fever (Third Semester)</h3>
+      </a><br />
+      Second Semester, Agile<br />
+      <h3>Scrap Fever [C#, Unity]</h3>
       <p>
         (<a href="https://github.com/LumiToad/WorkingTitle-SurvivorDefense">Repo</a> | 
         <a href="https://s4g.itch.io/scrap-fever">Itch</a>)
       </p>
       <a href="https://github.com/LumiToad/WorkingTitle-SurvivorDefense">
         <img src="https://github.com/LumiToad/LumiToad/blob/main/img/banner/github_scrap_banner.png" />
-      </a>
-      <h3>Clash of Words - Working Title</h3>
+      </a><br />
+      Third Semester, Agile
+      <h3>Clash of Words [C#, Unity]</h3>
       <p>
         (<a href="https://github.com/LumiToad/ClashOfWords">Repo</a> | 
         <a href="#">Website</a>)
       </p>
       <a href="https://github.com/LumiToad/ClashOfWords">
       <img src="https://github.com/LumiToad/LumiToad/blob/main/img/banner/github_cow_banner.png" />
-      </a>
+      </a><br />
+      Paused, code needs major refactor...<br />
     </p>
   </details>
  <!-- --------END OF EXPAND SECTION-------- -->
