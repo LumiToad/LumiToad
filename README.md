@@ -12,8 +12,8 @@
 | Project | Engine / Framework | Language | Timeframe | Anchor |
 | --- | --- | :---: | --- | --- |
 | [GUI for Diskpart](https://github.com/LumiToad/GUIForDiskpart) | Windows Presentation Foundation | C# | Beta done | [⬇️](#guifd_anchor) |
-| [CineCam](https://github.com/LumiToad/GDExtension_CineCam) | Godot, GDExtension | C++ | around 5 Weeks+ | ⬇[⬇️](#cinecam_anchor) |
-| [Arcanum Fortuna](https://github.com/LumiToad/ArcanumFortuna) | Godot | GDScript | 10 Weeks | ⬇[⬇️](#arcanum_anchor) |
+| [CineCam](https://github.com/LumiToad/GDExtension_CineCam) | Godot, GDExtension | C++ | around 5 Weeks+ | [⬇️](#cinecam_anchor) |
+| [Arcanum Fortuna](https://github.com/LumiToad/ArcanumFortuna) | Godot | GDScript | 10 Weeks | [⬇️](#arcanum_anchor) |
 | [Survivor Defense](https://github.com/LumiToad/WorkingTitle-SurvivorDefense) | Unity | C# | 10 Weeks | [⬇️](#scrap_anchor) |
     
 <h3>Social Media</h3>
