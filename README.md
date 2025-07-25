@@ -9,8 +9,8 @@
 
 <h3>Featured Projects</h3>
 
-| Project | Engine / Framework | Language | Timeframe | Anchor |
-| --- | --- | :---: | --- | --- |
+| Project | Engine / Framework | Language | Timeframe | # |
+| --- | --- | :---: | --- | :---: |
 | [GUI for Diskpart](https://github.com/LumiToad/GUIForDiskpart) | Windows Presentation Foundation | C# | Beta done | [⬇️](#guifd_anchor) |
 | [CineCam](https://github.com/LumiToad/GDExtension_CineCam) | Godot, GDExtension | C++ | around 5 Weeks+ | [⬇️](#cinecam_anchor) |
 | [Arcanum Fortuna](https://github.com/LumiToad/ArcanumFortuna) | Godot | GDScript | 10 Weeks | [⬇️](#arcanum_anchor) |
