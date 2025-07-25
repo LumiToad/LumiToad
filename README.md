@@ -3,9 +3,9 @@
   <h2>About me</h2>
   
   <p>
-    I am Lukas, a Game Engineering student at School For Games <a href="https://www.school4games.net">➡</a> from Berlin, Germany. <br />
-    Learning how to code since October 2022.<br /><br />
-    Most of these projects have been developed with an agile-heavy production.<br />
+    I am Lukas Schmidt from Berlin, Germany.<br />
+    I studied Game Engineering (programming, not design) at the School For Games <a href="https://www.school4games.net">➡</a>. <br />
+    Most of the projects below have been developed with an agile-heavy production.<br />
 
 <h3>Featured Projects</h3>
 
@@ -24,36 +24,7 @@
   </p>
   
   <hr />
-  <h2>School For Games</h2>
 
-  <h3>Brevity Of Gravity (First Semester)</h3>
-  <a name="brevity_anchor"></a>
-  <p>
-      (<a href="https://github.com/LumiToad/BrevityOfGravity">Repo</a> | 
-      <a href="https://brevity-of-gravity.school4games.net/">Website</a> | 
-      <a href="https://s4g.itch.io/brevity-of-gravity">Itch</a>)
-  </p>
-  <a href="https://github.com/LumiToad/BrevityOfGravity">
-    <img src="https://github.com/LumiToad/LumiToad/blob/main/img/banner/github_brevity_banner.png" />
-  </a><br /><br />
-
-  <h3>Hivebreaker (Second Semester)</h3>
-  <p>
-      (<a href="https://github.com/LumiToad/Hivebreaker">Repo</a> | 
-      <a href="https://s4g.itch.io/hivebreaker">Itch</a>)
-  </p>
-  <a href="https://github.com/LumiToad/Hivebreaker">
-    <img src="https://github.com/LumiToad/LumiToad/blob/main/img/banner/github_hivebreaker_banner.png" />
-  </a><br /><br />
-
-  <h3>Scrap Fever (Third Semester)</h3>
-  <p>
-      (<a href="https://github.com/LumiToad/WorkingTitle-SurvivorDefense">Repo</a> | 
-      <a href="https://s4g.itch.io/scrap-fever">Itch</a>)
-  </p>
-  <a href="https://github.com/LumiToad/WorkingTitle-SurvivorDefense">
-    <img src="https://github.com/LumiToad/LumiToad/blob/main/img/banner/github_scrap_banner.png" />
-  </a>
 
   <h3>Arcanum Fortuna (Third Semester)</h3>
   <p>
@@ -75,6 +46,41 @@
   <a href="https://github.com/LumiToad/GDExtension_CineCam">
     <img src="https://github.com/LumiToad/GDExtension_CineCam/blob/main/images/github_cinecam_banner.png" />
   </a><br /><br />
+  
+  <details>
+    <summary>Archived projects</summary>
+    <p>
+      <h2>School For Games</h2>
+      Important! These are from my time in the School for Games.<br />
+      My programming has improved since. However, these projects were agile team projects.<br />
+      <h3>Brevity Of Gravity (First Semester)</h3>
+      <a name="brevity_anchor"></a>
+        <p>
+          (<a href="https://github.com/LumiToad/BrevityOfGravity">Repo</a> | 
+          <a href="https://brevity-of-gravity.school4games.net/">Website</a> | 
+          <a href="https://s4g.itch.io/brevity-of-gravity">Itch</a>)
+        </p>
+      <a href="https://github.com/LumiToad/BrevityOfGravity">
+      <img src="https://github.com/LumiToad/LumiToad/blob/main/img/banner/github_brevity_banner.png" />
+      </a><br /><br />
+      <h3>Hivebreaker (Second Semester)</h3>
+      <p>
+        (<a href="https://github.com/LumiToad/Hivebreaker">Repo</a> | 
+        <a href="https://s4g.itch.io/hivebreaker">Itch</a>)
+      </p>
+      <a href="https://github.com/LumiToad/Hivebreaker">
+      <img src="https://github.com/LumiToad/LumiToad/blob/main/img/banner/github_hivebreaker_banner.png" />
+      </a><br /><br />
+      <h3>Scrap Fever (Third Semester)</h3>
+      <p>
+        (<a href="https://github.com/LumiToad/WorkingTitle-SurvivorDefense">Repo</a> | 
+        <a href="https://s4g.itch.io/scrap-fever">Itch</a>)
+      </p>
+      <a href="https://github.com/LumiToad/WorkingTitle-SurvivorDefense">
+        <img src="https://github.com/LumiToad/LumiToad/blob/main/img/banner/github_scrap_banner.png" />
+      </a>
+    </p>
+  </details>
 
   <hr />
   
